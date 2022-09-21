@@ -1,4 +1,4 @@
-### Hi there, I am a mobile app developer and machine learning Engineer 👋
+### Hi there, I am a Software Engineer 👋
 
 
 - 🔭 I’m currently working on a mobile app with Flutter.
