@@ -1,10 +1,9 @@
-### Hi there, I am a Software Engineer 👋
+### Hello, I am Somoye Christopher. I am a Software Developer and a Machine Learning Engineer 👋
 
 
-- 🔭 I’m currently working on a mobile app with Flutter.
-- 🌱 I’m currently learning Flutter and Expanding my knowledge in AI.
+- 🔭 I’m currently building a mobile app for a start-up I am in.
+- 🌱 I am currently improving my knowledge deeper in the AI space.
 - 👯 I’m looking to collaborate on machine learning projects and available for Mobile development Job.
 
-- 💬 Ask me about Anything relating to machine learning and mobile development
+- 💬 Ask me about Anything relating to Machine Learning and Mobile Development
 - 📫 How to reach me: [e-mail](adedejisomoye1@gmail.com) / [LinkedIn](https://www.linkedin.com/in/christopher-somoye-273b45173)
-- 😄 Pronouns: He/Him
