@@ -1,4 +1,5 @@
-### Hello, I am Somoye Christopher. I am a Software Developer and a Machine Learning Engineer 👋
+### Hello, I am Somoye Christopher. I am a Software 
+### Developer and a Machine Learning Engineer 👋
 
 
 - 🔭 I’m currently building a mobile app for a start-up I am in.
