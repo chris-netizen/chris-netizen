@@ -1,4 +1,4 @@
-### Hello, I am Somoye Christopher. I am a Software 
+### Hello, I am Somoye Christopher. And a Software 
 ### Developer and a Machine Learning Engineer 👋
 
 
