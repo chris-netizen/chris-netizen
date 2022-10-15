@@ -1,5 +1,5 @@
 ### Hello, I am Somoye Christopher Adedeji. A Software 
-### Developer and a an aspiring Machine Learning Engineer 
+### Developer and an aspiring Machine Learning Engineer 
 
 
 - 🔭 I’m currently building a mobile app for a start-up I am in.
