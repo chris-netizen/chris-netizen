@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Software Engineer</h3>
 
 
-- 🔭 I’m currently working on a **Milsat Project**
+- 🔭 I’m currently building **Projects** 
 
 - 🌱 I’m currently learning **Pytorch**
 
