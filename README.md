@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Somoye Christopher</h1>
-<h3 align="left">A passionate Software Engineer</h3>
+<h3 align="left">Software Engineer/Machine Learning Engineer</h3>
 
 
-- 🔭 I’m currently building **Projects** 
+- 🔭 I’m currently working on **Projects** 
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m constantly learning **New Things**
 
 - 👯 I’m looking to collaborate on **AI/ML and Flutter Projects**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **adedejisomoye1@gmail.com**
 
-- ⚡ Fun fact **I love learning new things**
+- ⚡ Fun fact **Productivity at its peak here**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-netizen&label=Profile%20views&color=0e75b6&style=flat" alt="chris-netizen" /> </p>
 
