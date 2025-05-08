@@ -6,9 +6,9 @@
 
 - 🌱 I’m constantly learning **New Things**
 
-- 👯 I’m looking to collaborate on **AI/ML and Flutter Projects**
+- 👯 I’m looking to collaborate on **AI/ML, React Native and Flutter Projects**
 
-- 💬 Ask me about **Machine Learning / Flutter**
+- 💬 Ask me about **Machine Learning / Flutter / React Native**
 
 - 📫 How to reach me **adedejisomoye1@gmail.com**
 
