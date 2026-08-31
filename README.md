@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=620&lines=Mobile+Engineer+%C3%97+Geospatial+AI;Flutter+%26+React+Native+Developer;Remote+Sensing+%2F+GIS+Specialist;Shipping+Machine+Learning+to+Production" alt="Somoye Christopher" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=620&lines=Mobile+Engineer+%C3%97+Geospatial+AI;Flutter+%26+Kotlin+Developer;Remote+Sensing+%2F+GIS+Specialist;Shipping+Machine+Learning+to+Production" alt="Somoye Christopher" />
 
 <h1>Hi 👋, I'm Somoye Christopher</h1>
 
@@ -33,7 +33,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-6C4AB6?style=for-the-badge)
 ![Riverpod](https://img.shields.io/badge/Riverpod-00B4AB?style=for-the-badge)
 
