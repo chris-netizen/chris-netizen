@@ -6,7 +6,7 @@
 
 <p><b>I build mobile apps that ship and geospatial ML systems that solve real problems — and I live in the rare overlap between the two.</b></p>
 
-<a href="https://twitter.com/somoyechris"><img src="https://img.shields.io/twitter/follow/somoyechris?logo=twitter&style=for-the-badge&color=1DA1F2" alt="somoyechris" /></a>
+<a href="https://twitter.com/dejisomoye1s"><img src="https://img.shields.io/twitter/follow/dejisomoye1?logo=twitter&style=for-the-badge&color=1DA1F2" alt="dejisomoye1" /></a>
 <a href="mailto:adedejisomoye1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 <img src="https://komarev.com/ghpvc/?username=chris-netizen&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="profile views" />
 
