@@ -23,7 +23,7 @@
 - 👯 Open to collaborate on **AI/ML, Flutter & React Native** projects
 - 💬 Ask me about **Flutter, Remote Sensing / GIS, or getting ML into production**
 - 🎓 **B.Tech, Remote Sensing & GIS** — thesis: SAR-based flood detection at **~95% accuracy**
-- 📫 Reach me at **adedejisomoye1@gmail.com**
+- 📫 Reach me at **adedejisomoye1@gmail.com** or **+2348034036018**
 
 ---
 
